@@ -67,6 +67,4 @@ class Mass_Card_Dealer:
         columns = [outer, inner]
         self.frame = pd.DataFrame(cards_table.T, index=index, columns=columns) # we passed the transpose because we want to 
                                                                                # have the cards as the indexes
-x = Mass_Card_Dealer(1000)
-x.make_dataframe()
-print(x.frame)
+
