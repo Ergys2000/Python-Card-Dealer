@@ -1,5 +1,5 @@
 # Python-Card-Dealer
-This little module allow for simulating large amounts of card dealings in an efficient matter, and analyzing those dealings.
+This little module allow for simulating large amounts of card dealings in an efficient manner, and analyzing those dealings.
 ## ----> How to use it?
 Just download the card_dealing.py into your folder.
 Import all the classes
